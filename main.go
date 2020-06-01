@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "Quick-Git/cmd"
 
+func main() {
+	cmd.Execute()
 }

@@ -1,6 +1,6 @@
 package main
 
-import "Quick-Git/cmd"
+import "github.com/Matt-Gleich/Quick-Git/cmd"
 
 func main() {
 	cmd.Execute()

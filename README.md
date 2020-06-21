@@ -1,8 +1,8 @@
-# goTemplate
+# Quick-Git
 
-## Fill In
+![Go Build](https://github.com/Matt-Gleich/Quick-Git/workflows/Go%20Build/badge.svg) ![Format](https://github.com/Matt-Gleich/Quick-Git/workflows/Format/badge.svg) ![goreleaser](https://github.com/Matt-Gleich/Quick-Git/workflows/goreleaser/badge.svg) ![goreleaser format](https://github.com/Matt-Gleich/Quick-Git/workflows/goreleaser%20format/badge.svg)
 
-1. go.mod (Name of module)
+⚡ Automated Git
 
 ## Contributors
 

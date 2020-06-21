@@ -10,7 +10,7 @@ var rootCmd = &cobra.Command{
 	Use:   "Quick-Git",
 	Short: "Git for busy people",
 	Long: `
-🤖 Git automated
+⚡ An advanced version of the git cli. Speed and amazing UX.
 🐙 GitHub Repository: https://github.com/Matt-Gleich/Quick-Git
 
    ____       _      _           ___ _ _
@@ -18,7 +18,7 @@ var rootCmd = &cobra.Command{
  //  / / | | | |/ __| |/ /____ / /_\/ | __|
 / \_/ /| |_| | | (__|   <_____/ /_\\| | |_
 \___,_\ \__,_|_|\___|_|\_\    \____/|_|\__|
-	`,
+`,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
